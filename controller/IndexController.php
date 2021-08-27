@@ -2,12 +2,6 @@
 
 declare(strict_types=1);
 
-/**
- * Created by PhpStorm.
- * User: osama
- * Date: 26.10.17
- * Time: 20:25
- */
 class IndexController
 {
     /**
